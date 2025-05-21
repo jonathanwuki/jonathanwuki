@@ -1,11 +1,8 @@
 # Jonathan Wukitsch
 
-## Education
-**University of Florida** *(Fall 2022 - Spring 2025)*
+Hi, I'm Jonathan! I started programming when I was ten years old and have never stopped since. I've published eight applications to the App Store since 2015 - the most recent being NaviGator, a smart bus tracker for the Gainesville Regional Transit System with over 25,000 downloads and ~3,500 daily active users on iOS and Android.
 
-Bachelor of Science in Computer Science
-
-Minor in Engineering Innovation
+I recently graduated from the University of Florida with a B.S. in Computer Science and am currently working as an Associate Software Engineer at Disney. In my free time, I continue to work on personal projects - some of which are below.
 
 ## Projects
 
